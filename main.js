@@ -34,7 +34,7 @@ var truth = [
   "Do you prefer the lights on or off?",
   "Does size matter?",
   "Spit or swallow? We’re not talking about Sriracha.",
-  "What’s your favorite part of my body?",
+  "What’s your favorite body part of the person to your left?",
   "What would you do if you were the opposite sex for a month?",
   "What color underwear are you wearing right now?",
   "Have you ever done a striptease for someone?",
