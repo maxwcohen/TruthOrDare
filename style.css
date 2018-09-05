@@ -1,0 +1,64 @@
+body{
+  margin: 0px;
+  background-color: #dd3c26;
+}
+
+.siteContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height:100vh;
+}
+
+.logo{
+  /* flex-grow: 1; */
+}
+
+.logoImg{
+  width:200px;
+  /* margin-top: 40px; */
+}
+
+.truthOrDare{
+  /* flex-grow: 1; */
+}
+
+#title{
+  font-family: "balloon-urw-drop-shadow";
+  font-size: 4em;
+  color: white;
+  text-align: center;
+}
+
+#text{
+  font-family: "balloon-urw";
+  font-weight: 800;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  margin: 0px 40px;
+}
+
+.share{
+  font-family: "balloon-urw-drop-shadow";
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.shareRow{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 140px;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.socialLogo{
+  width: 40px;
+}
