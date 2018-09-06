@@ -83,7 +83,7 @@ var dare = [
   "Fill your mouth with water, and each person in the group must tell the funniest joke they know. If you spit out the water, you have to eat a spoonful of Sriracha.",
   "Talk to a pillow like it’s your crush.",
   "Let someone else style your hair and keep it that way for the rest of the day.",
-  "Let somebody draw a tattoo on your arm with permanent marker.",
+  "Let somebody tattoo your arm with permanent marker.",
   "Let everyone draw on your face.",
   "Sing a song for everyone.",
   "Make out with your hand.",
