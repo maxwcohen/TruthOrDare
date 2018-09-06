@@ -61,38 +61,19 @@ var dare = [
   "Take off your shirt for the rest of the game.",
   "Give someone in this room a lap dance.",
   "Call to your ex and say you still love him/her.",
-<<<<<<< HEAD
-  "Sensually suck Sriracha off of someone's finger.",
-  "Send a Facebook message to someone you’ve slept with describing a dirty dream you’ve had about them.",
-  "Take off your pants for the rest of the game.",
-  "Show the sexiest picture that have on your phone.",
-=======
   "Suck someone’s finger with Sriracha pretending you are performing oral sex.",
   "Send a Facebook message to someone you’ve slept with describing a dirty dream you’ve had about them.",
   "Take off your pants for the rest of the game.",
   "Show your sexiest picture that have on your phone.",
->>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Fake an orgasm for 30 seconds.",
   "Give somebody a massage.",
   "Do an impression of your favorite celebrity.",
   "Take a selfie with the toilet and post it online.",
-<<<<<<< HEAD
   "Do a striptease for everyone in the group.",
   "Slap the person to your left on the booty.",
   "Call someone random, and talk freaky to them.",
   "Do a handstand on the wall for the next two rounds.",
   "Text your crush and tell them how much you like them.",
-=======
-  "Get on the table (or in the middle/front) and do a strip tease.",
-  "Slap the person to your left on the booty.",
-  "Twerk on a handstand.",
-  "Lick someone’s foot.",
-  "Call someone random, and talk freaky to them.",
-  "Do a handstand on the wall for the next two rounds.",
-  "Text your crush and tell them how much you like them.",
-  "Give a hickey on somebody’s chest.",
-  "Do your favorite sex position with somebody on the room.",
->>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Give a 3 minute lecture on Safe Sex.",
   "Flirt with a random person in the room.",
   "Dance like a ballerina.",
@@ -103,20 +84,12 @@ var dare = [
   "Fill your mouth with water, and each person in the group must tell the funniest joke they know. If you spit up the water, you have to eat a spoonful of Sriracha.",
   "Talk to a pillow like it’s your crush.",
   "Let someone else style your hair and keep it that way for the rest of the day.",
-<<<<<<< HEAD
   "Let somebody draw a tattoo on your arm with permanent marker.",
-=======
-  "Let somebody draw a tattoo with a marker on your arm.",
->>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Let everyone draw on your face.",
   "Sing a song for everyone.",
   "Make out with your hand.",
   "Pretend to “drunk dial” your ex and say “meow bear”.",
-<<<<<<< HEAD
   "Let people read your last 3 messages.",
-=======
-  "Let people read your 3 last messages.",
->>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Call the last person in your call history and talk in a foreign accent. Then hang up.",
   "Lick the person nearest to you.",
   "Eat something with Sriracha in the sexiest way possible.",
