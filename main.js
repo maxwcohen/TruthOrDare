@@ -15,7 +15,7 @@ var truth = [
   "Would you rather dominate someone or be dominated?",
   "What do you think is the sexiest body part of the opposite sex?",
   "What’s the hottest thing anyone’s ever said to you?",
-  "What is a somewhat weird fetish that you would actually try?",
+  "What is a fetish that you would actually try?",
   "What fictional character do you have sexual fantasies about?",
   "Have you ever had sex with more than one person at a time?",
   "Do you have any sex tapes?",
@@ -39,10 +39,9 @@ var truth = [
   "What color underwear are you wearing right now?",
   "Have you ever done a striptease for someone?",
   "What’s the sexiest pick-up line you have ever heard?",
-  "Have you ever had sex with a person much older or young than you? Who?",
-  "What’s your favorite thing during sex?",
+  "Have you ever slept with a person much older or young than you? Who?",
   "Have you ever cheated or been cheated on?",
-  "Who have you loved but they didn’t love you back?",
+  "Who have you loved that didn’t love you back?",
   "What’s something that you have never told anyone?",
   "What’s one thing on your bucket list?",
   "If you could change one thing about your life, what would it be?",
@@ -51,7 +50,7 @@ var truth = [
   "What’s the last thing you searched on your phone?",
   "What’s your weirdest habit?",
   "If you were trapped on an island for 3 days, who would you take with you?",
-  "Do you believe in love at all?",
+  "Do you believe in love?",
   "Do you believe in love at first sight?",
   "Do you believe you already found your soul mate?",
   "If you could change one thing on your body, what would it be?"
@@ -62,14 +61,28 @@ var dare = [
   "Take off your shirt for the rest of the game.",
   "Give someone in this room a lap dance.",
   "Call to your ex and say you still love him/her.",
+<<<<<<< HEAD
+  "Sensually suck Sriracha off of someone's finger.",
+  "Send a Facebook message to someone you’ve slept with describing a dirty dream you’ve had about them.",
+  "Take off your pants for the rest of the game.",
+  "Show the sexiest picture that have on your phone.",
+=======
   "Suck someone’s finger with Sriracha pretending you are performing oral sex.",
   "Send a Facebook message to someone you’ve slept with describing a dirty dream you’ve had about them.",
   "Take off your pants for the rest of the game.",
   "Show your sexiest picture that have on your phone.",
+>>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Fake an orgasm for 30 seconds.",
   "Give somebody a massage.",
   "Do an impression of your favorite celebrity.",
   "Take a selfie with the toilet and post it online.",
+<<<<<<< HEAD
+  "Do a striptease for everyone in the group.",
+  "Slap the person to your left on the booty.",
+  "Call someone random, and talk freaky to them.",
+  "Do a handstand on the wall for the next two rounds.",
+  "Text your crush and tell them how much you like them.",
+=======
   "Get on the table (or in the middle/front) and do a strip tease.",
   "Slap the person to your left on the booty.",
   "Twerk on a handstand.",
@@ -79,6 +92,7 @@ var dare = [
   "Text your crush and tell them how much you like them.",
   "Give a hickey on somebody’s chest.",
   "Do your favorite sex position with somebody on the room.",
+>>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Give a 3 minute lecture on Safe Sex.",
   "Flirt with a random person in the room.",
   "Dance like a ballerina.",
@@ -89,12 +103,20 @@ var dare = [
   "Fill your mouth with water, and each person in the group must tell the funniest joke they know. If you spit up the water, you have to eat a spoonful of Sriracha.",
   "Talk to a pillow like it’s your crush.",
   "Let someone else style your hair and keep it that way for the rest of the day.",
+<<<<<<< HEAD
+  "Let somebody draw a tattoo on your arm with permanent marker.",
+=======
   "Let somebody draw a tattoo with a marker on your arm.",
+>>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Let everyone draw on your face.",
   "Sing a song for everyone.",
   "Make out with your hand.",
   "Pretend to “drunk dial” your ex and say “meow bear”.",
+<<<<<<< HEAD
+  "Let people read your last 3 messages.",
+=======
   "Let people read your 3 last messages.",
+>>>>>>> fae0699086e6801d499cadb3901c0bd3d985ff66
   "Call the last person in your call history and talk in a foreign accent. Then hang up.",
   "Lick the person nearest to you.",
   "Eat something with Sriracha in the sexiest way possible.",
@@ -121,7 +143,7 @@ function getText(){
   if(coinFlip > 0.5){
     var truthIndex = Math.floor(Math.random()*truth.length);
     var truthValue = truth[truthIndex];
-    $('#text').html(decodeURIComponent(truthValue));
+    $('#text').html(truthValue);
   }
   else{
     var dareIndex = Math.floor(Math.random()*dare.length);
