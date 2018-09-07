@@ -76,7 +76,7 @@ var dare = [
   "Give a 3 minute lecture on Safe Sex.",
   "Flirt with a random person in the room.",
   "Dance like a ballerina.",
-  "Trade clothes with somebody on the room.",
+  "Trade clothes with somebody in the room.",
   "Let someone in the room write whatever they want from your Facebook account.",
   "Publish the most embarrassing picture of you taken recently. Caption it #Loveyourself.",
   "Remove somebody’s socks with your teeth.",
